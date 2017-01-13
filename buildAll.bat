@@ -1,0 +1,2 @@
+gulp build-all
+cmd
